@@ -3,7 +3,7 @@
 
 ![Leon14789 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon14789&show_icons=true&theme=dracula)
 
-
+Programming is my passion, I have a flame that never goes out for knowledge, and I'm always looking for professional evolution.
 <hr />
 
 ### Contact Me: 
@@ -19,6 +19,7 @@
 
 <div>
 <img alt="Technologies I work"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+<img alt="Technologies I work"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="Technologies I work"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" />
 <img alt="Technologies I work"  src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 <img alt="Technologies I work"  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
