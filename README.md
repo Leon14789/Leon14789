@@ -1,7 +1,7 @@
 ### Hello, my name is Leonardo and I'm a Back-end developer 😃
 
 
-![Leon14789 GitHub stats](https://github-readme-stats.vercel.app/api?username=Leon14789&show_icons=true&theme=dracula)
+
 
 Programming is my passion, I have a flame that never goes out for knowledge, and I'm always looking for professional evolution.
 <hr />
