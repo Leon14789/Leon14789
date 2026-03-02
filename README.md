@@ -27,7 +27,7 @@ Programming is my passion, I have a flame that never goes out for knowledge, and
 <img alt="Technologies I work"  src="https://img.shields.io/badge/react-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
 </div>
 
-
+<hr />
 
 
 <div>
