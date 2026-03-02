@@ -15,7 +15,7 @@ Programming is my passion, I have a flame that never goes out for knowledge, and
 
 <hr />
 
-### Front-end Technologies
+### echnologies
 
 <div>
 <img alt="Technologies I work"  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -29,7 +29,6 @@ Programming is my passion, I have a flame that never goes out for knowledge, and
 
 <hr />
 
-### Back-end Technologies
 
 <div>
 <img alt="Technologies I work"  src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
